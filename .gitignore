@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+data/
+*.zip
+models/*.pt
+models/*.pth
+outputs/*
+!outputs/figures/
+!outputs/predictions/
+!outputs/figures/.gitkeep
+!outputs/predictions/.gitkeep
